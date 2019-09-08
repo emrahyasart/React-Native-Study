@@ -15,4 +15,4 @@ const styles = StyleSheet.create({});
 
 export default ImageDetail;
 
-//instead of props we can use ({imageSource, title, source})
+//instead of props we can use ({imageSource, title, sourcegit remote add origin https://github.com/emrahyasart/React-Native-Study.git})
