@@ -20,6 +20,12 @@ const CounterScreen = () => {
           setCounter(counter - 1);
         }}
       />
+      <Button
+        title="Reset"
+        onPress={() => {
+          setCounter(0);
+        }}
+      />
       <Text>Current Count: {counter}</Text>
     </View>
   );
